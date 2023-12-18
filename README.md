@@ -11,3 +11,12 @@
 |8| [Is B a subsequence of A ?](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/U) | [Is B a subsequence of A ?](https://github.com/Salma-Swailem/IEEE-CS-Rookies-2024/blob/main/Task-1/Is%20B%20a%20subsequence%20of%20A.cpp)  |
 | Task-2 |  |  |
 |1| []() | []()  |
+| Task-3 |  |  |
+|1| [Print](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/B) | [Print]()  |
+|2| [Wonderful Number](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/C) | [Wonderful Number]()  |
+|3| [Prime Function](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/D) | [Prime Function]()  |
+|4| [Equation](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/F) | [Equation]()  |
+|5| [Swapping With Matrix](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/I) | [Swapping With Matrix]()  |
+|6| [Shift Right](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/K) | [Shift Right]()  |
+|7| [New Array](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/L) | [New Array]()  |
+|8| [Five in One](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/O) | [Five in One]()  |
