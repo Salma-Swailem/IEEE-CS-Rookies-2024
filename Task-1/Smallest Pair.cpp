@@ -1,9 +1,11 @@
 #include <iostream>
 #include <climits>
+#include <vector>
+
 
 using namespace std;
 
-int smallest_sum(int N, int arr[]) {
+int SmallestPair(int N, vector<int>& arr) {
     int min_sum = INT_MAX;
 
     for (int i = 0; i < N; ++i) {
@@ -16,25 +18,25 @@ int smallest_sum(int N, int arr[]) {
     return min_sum;
 }
 
+
 int main() {
     int T;
+    int N;
+
     cin >> T;
 
-    for (int t = 0; t < T; ++t) {
-        int N;
+    while (T--) {
+
         cin >> N;
 
-        int* arr = new int[N];
+        vector<int> arr(N);
 
         for (int i = 0; i < N; ++i) {
             cin >> arr[i];
         }
 
-        int result = smallest_sum(N, arr);
+        int result = SmallestPair(N, arr);
         cout << result << endl;
 
-        delete[] arr;
     }
-
-    return 0;
 }
